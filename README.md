@@ -1,2 +1,2 @@
 # hello-world
-Traditionnal hello world
+Traditional hello world
